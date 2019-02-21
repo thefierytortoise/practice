@@ -3,7 +3,4 @@ I have a JS file ready for when you learn JS later.
 
 Project:
 Make website with a heading (idc what size). Under the heading write a paragraph of whatever. You can type lorem and hit tab to generate random text.
-Then use projecta to create 2 columns and in each column put an image. In this editor you can type the name of a tag and hit enter btw to auto generate it. For
-images you can type img and hit tab. To use projecta for columns u need to type row and it will pop up a bunch of options. The s,m,l things mean different
-size for the screen to collapse it at. Since u r using 2 columns select the row-l-2. Use css to add colors or something to it idc lol. If u need help ask me
-Read the comments i put in the html file im putting some other stuff in there.
+Then use projecta to create 2 columns and in each column put an image. In this editor you can type the name of a tag and hit enter btw to auto generate it. For images you can type img and hit tab. To use projecta for columns u need to type row and it will pop up a bunch of options. The s,m,l things mean different size for the screen to collapse it at. Since u r using 2 columns select the row-l-2. Use css to add colors or something to it idc lol. If u need help ask me. Read the comments i put in the html file im putting some other stuff in there.
