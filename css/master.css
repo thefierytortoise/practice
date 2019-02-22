@@ -1,3 +1,17 @@
 h1 {
-border: 3px solid slategrey;
+  border: 6px double royalblue;
+  padding-right: 30px;
+}
+p {
+  padding: 15px 20px;
+  border: 6px solid darksalmon;
+  width: 1000px;
+}
+img {
+  width: 563px;
+  height: 316px;
+  padding: 5px;
+}
+body {
+  background-color: rgb(240, 240, 240);
 }
