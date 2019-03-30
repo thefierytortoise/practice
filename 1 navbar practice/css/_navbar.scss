@@ -1,0 +1,26 @@
+@import "variables";
+.nav {
+  background-color: $olive;
+  .burger {
+    background-color: $olive;
+    border-color: $lgreen;
+    i {
+      color: $lgreen;
+    }
+  }
+  .nav-items {
+    background-color: $olive;
+    .close i {
+      color: $lgreen;
+    }
+    .item {
+      &.active a {
+        color: $lgreen;
+      }
+      a {
+        color: white;
+        font-family: $pfont;
+      }
+    }
+  }
+}

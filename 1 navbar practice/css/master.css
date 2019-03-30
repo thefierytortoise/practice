@@ -1,0 +1,23 @@
+.nav {
+  background-color: #798e55;
+}
+.nav .burger {
+  background-color: #798e55;
+  border-color: #d0e4d2;
+}
+.nav .burger i {
+  color: #d0e4d2;
+}
+.nav .nav-items {
+  background-color: #798e55;
+}
+.nav .nav-items .close i {
+  color: #d0e4d2;
+}
+.nav .nav-items .item.active a {
+  color: #d0e4d2;
+}
+.nav .nav-items .item a {
+  color: white;
+  font-family: "PT Sans", sans-serif;
+}
