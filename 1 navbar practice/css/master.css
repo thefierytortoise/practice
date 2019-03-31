@@ -21,3 +21,12 @@
   color: white;
   font-family: "PT Sans", sans-serif;
 }
+
+@media only screen and (min-width: 768px) {
+  .nav {
+    background-color: transparent;
+  }
+  .nav .nav-items {
+    background-color: transparent;
+  }
+}
