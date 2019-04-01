@@ -1,1 +1,36 @@
 @import "variables";
+
+.landing {
+  h1, h4 {
+    color: white;
+    text-align: center;
+    font-family: $pfont;
+  }
+}
+@media only screen and (min-width: 436px) {
+  .landing {
+    h1 {
+      font-size: 40px;
+    }
+  }
+}
+
+@media only screen and (min-width: 620px) {
+  .landing {
+    h1 {
+      font-size: 50px;
+    }
+  }
+}
+
+@media only screen and (min-width: 768px) {
+  .landing {
+    h1 {
+      font-size: 60px;
+    }
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+
+}
