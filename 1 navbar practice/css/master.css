@@ -1,1 +1,98 @@
-.nav{background-color:#798e55}.nav .burger{background-color:#798e55;border-color:#d0e4d2}.nav .burger i{color:#d0e4d2}.nav .nav-items{background-color:#798e55}.nav .nav-items .close i{color:#d0e4d2}.nav .nav-items .item.active a{color:#d0e4d2}.nav .nav-items .item a{color:white;font-family:"PT Sans",sans-serif}.landing h1,.landing h4{color:white;text-align:center;font-family:"PT Sans",sans-serif}@media only screen and (min-width: 436px){.landing h1{font-size:35px}}@media only screen and (min-width: 620px){.landing h1{font-size:40px}}@media only screen and (min-width: 768px){.landing h1{font-size:45px}}
+.nav {
+  background-color: #798e55;
+}
+.nav .burger {
+  background-color: #798e55;
+  border-color: #d0e4d2;
+}
+.nav .burger i {
+  color: #d0e4d2;
+}
+.nav .nav-items {
+  background-color: #798e55;
+}
+.nav .nav-items .close i {
+  color: #d0e4d2;
+}
+.nav .nav-items .item.active a {
+  color: #d0e4d2;
+}
+.nav .nav-items .item a {
+  color: white;
+  font-family: "PT Sans", sans-serif;
+}
+
+/*
+@media only screen and (min-width: 436px) {
+
+}
+
+@media only screen and (min-width: 620px) {
+
+}
+
+@media only screen and (min-width: 768px) {
+  .nav {
+    background-color: transparent;
+    .nav-items {
+      background-color: transparent;
+      }
+    }
+  }
+
+@media only screen and (min-width: 1024px) {
+
+}
+*/
+.landing h1, .landing .flower p, .flower .landing p, .landing h4 {
+  color: white;
+  text-align: center;
+  font-family: "PT Sans", sans-serif;
+}
+
+@media only screen and (min-width: 436px) {
+  .landing h1, .landing .flower p, .flower .landing p {
+    font-size: 35px;
+  }
+}
+@media only screen and (min-width: 620px) {
+  .landing h1, .landing .flower p, .flower .landing p {
+    font-size: 40px;
+  }
+}
+@media only screen and (min-width: 768px) {
+  .landing h1, .landing .flower p, .flower .landing p {
+    font-size: 45px;
+  }
+}
+.flower {
+  padding-bottom: 30px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.flower h1, .flower p {
+  font-size: 25px;
+  font-family: "PT Sans", sans-serif;
+  color: #545454;
+}
+.flower img {
+  height: 200px;
+  width: 200px;
+}
+.flower p {
+  font-size: 16px;
+  text-align: center;
+  width: 93%;
+}
+
+hr {
+  margin-bottom: 30px;
+}
